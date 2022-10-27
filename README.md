@@ -6,7 +6,7 @@ I'm Leonor Murphy, a Computer Science Engineering student from Zaragoza, Spain.
 
 ### 🛠️ Languages and tools :
 
-<!-- Icons are from https://github.com/devicons/devicon/tree/master/icons -->
+<!-- Icons are from https://github.com/devicons/devicon/tree/master/icons and https://github.com/simple-icons/simple-icons/tree/develop/icons -->
 <div>
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
@@ -18,6 +18,10 @@ I'm Leonor Murphy, a Computer Science Engineering student from Zaragoza, Spain.
     <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="r" alt="r" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="40" height="40"/>&nbsp;
     <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/arm.svg" title="ARM" alt="ARM" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="postgresql" alt="postgresql" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/simple-icons/simple-icons/blob/develop/icons/eclipseide.svg" title="eclipse" alt="eclipse" width="40" height="40"/>&nbsp;
+    <img src="https://symbols.getvecta.com/stencil_27/81_sql-database.712f6a994f.svg" title="eclipse" alt="eclipse" width="40" height="40"/>&nbsp;
   
 </div>
 
