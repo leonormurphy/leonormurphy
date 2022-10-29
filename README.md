@@ -40,5 +40,5 @@ I'm Leonor Murphy, a Computer Science Engineering student from Zaragoza, Spain.
 <h2 align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonormurphy&layout=compact&theme=radical" alt="IkerKa" /> </h2>
 
 <div align="center">
-    <img src="https://wakatime.com/share/@400b4177-6cec-4035-9b17-8d76216c772c/58e79fd3-9338-4144-b8f9-6455068df3ce.svg" height=350>
+    <img src="https://wakatime.com/share/@400b4177-6cec-4035-9b17-8d76216c772c/145bedd5-c8e2-481f-852e-6b8f2b0c752b.svg" height=350>
 </div>
