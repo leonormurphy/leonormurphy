@@ -27,6 +27,11 @@ I'm Leonor Murphy, a Computer Science Engineering student from Zaragoza, Spain.
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
      <img src="https://user-images.githubusercontent.com/76400289/198283391-31ab6724-c203-49cb-8ad5-7956ebf95c34.png" title="javacc" alt="javacc" width="40" height=40 />&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" alt="AndroidStudio" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg" title="Kubernetes" alt="Kubernetes" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
+    <img src="https://www.svgrepo.com/show/14636/jsp-open-file-format-with-java-logo.svg" title="JSP" alt="JSP" width="40" height="40"/>&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/ARM_logo.svg" title="ARM" alt="ARM" width="40" height="40"/>&nbsp;
 </div>
 
 <hr />
