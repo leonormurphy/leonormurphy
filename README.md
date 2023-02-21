@@ -31,6 +31,8 @@ I'm Leonor Murphy, a Computer Science Engineering student from Zaragoza, Spain.
     <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
     <img src="https://www.svgrepo.com/show/14636/jsp-open-file-format-with-java-logo.svg" title="JSP" alt="JSP" width="40" height="40"/>&nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/60/ARM_logo.svg" title="ARM" alt="ARM" width="40" height="40"/>&nbsp;
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Matlab_Logo.png/534px-Matlab_Logo.png" title="MatLAB" alt="MatLab" width="40" height="40"/>&nbsp;
+    
 </div>
 
 <hr />
